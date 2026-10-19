@@ -28,6 +28,12 @@ Building practical projects at the intersection of **embedded systems, software,
 
 ### Embedded Systems & Hardware
 
+## 🛠️ Tech Stack
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/srimogu/srimogu/main/assets/tech-floating.svg" width="100%" alt="Floating tech stack" />
+</div>
+
 <p>
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" alt="Arduino and Raspberry Pi" />
 <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" />
