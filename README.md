@@ -27,7 +27,7 @@ Building practical projects at the intersection of **embedded systems, software,
 ## 🛠️ Tech Stack
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/srimogu/srimogu/main/assets/tech-floating-groups.svg" width="100%" alt="Tech stack: programming, technologies and boards" />
+<img src="https://raw.githubusercontent.com/srimogu/srimogu/main/assets/tech-floating.svg" width="100%" alt="Floating tech stack" />
 </div>
 
 ### 🤖 AI Object Detection & Tracking Robot
