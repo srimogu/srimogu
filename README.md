@@ -28,11 +28,7 @@ Building practical projects at the intersection of **embedded systems, software,
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/srimogu/srimogu/main/assets/tech-floating-groups.svg" width="100%" alt="Tech stack: programming, technologies and boards" />
-</div>## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
+</div>
 
 ### 🤖 AI Object Detection & Tracking Robot
 
