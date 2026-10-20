@@ -30,6 +30,12 @@ Building practical projects at the intersection of **embedded systems, software,
 <img src="https://raw.githubusercontent.com/srimogu/srimogu/main/assets/tech-floating.svg" width="100%" alt="Floating tech stack" />
 </div>
 
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 🤖 AI Object Detection & Tracking Robot
 
 Combines Python, OpenCV, and a custom YOLO model to detect objects in a live video stream and support object-tracking robot control.
