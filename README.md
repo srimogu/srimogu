@@ -26,35 +26,9 @@ Building practical projects at the intersection of **embedded systems, software,
 
 ## 🛠️ Tech Stack
 
-### Embedded Systems & Hardware
-
-## 🛠️ Tech Stack
-
 <div align="center">
-<img src="https://raw.githubusercontent.com/srimogu/srimogu/main/assets/tech-floating.svg" width="100%" alt="Floating tech stack" />
-</div>
-
-<p>
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" alt="Arduino and Raspberry Pi" />
-<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" />
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
-</p>
-
-### Programming & Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=c,python,git,github,vscode" alt="C, Python, Git, GitHub, and VS Code" />
-</p>
-
-### AI, Computer Vision & IoT
-
-<p>
-<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-<img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=ultralytics&logoColor=white" alt="YOLO" />
-<img src="https://img.shields.io/badge/ThingSpeak-0A9EDC?style=for-the-badge&logo=thingspeak&logoColor=white" alt="ThingSpeak" />
-</p>
-
-## 🚀 Featured Projects
+<img src="https://raw.githubusercontent.com/srimogu/srimogu/main/assets/tech-floating-groups.svg" width="100%" alt="Tech stack: programming, technologies and boards" />
+</div>## 🚀 Featured Projects
 
 <table>
 <tr>
